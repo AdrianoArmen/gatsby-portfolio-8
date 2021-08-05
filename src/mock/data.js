@@ -80,27 +80,23 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
+      url: 'https://twitter.com/Adriano99311656',
     },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
+
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/adriano-armendaris/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/AdrianoArmen',
     },
   ],
 };
 
-// Github start/fork buttons
+// Github start/fork buttons set to false
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false,
 };
