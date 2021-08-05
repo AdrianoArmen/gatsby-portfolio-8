@@ -24,37 +24,46 @@ export const aboutData = {
     'I find inspiration by approaching tech challenges through a human perspective focusing on interpersonal relationships as a fundamental milestone of every business.',
   paragraphThree:
     'I also have a special crush on design and fron-end technologies. My goal this year is to get an entry position on a front-end role to master my skills and grow as a professional.',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1kg6Mfy4G0UMV_z7aZ_5ic8V4bVmhDpul/view?usp=sharing',
 };
 
 // PROJECTS DATA
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'react-portfolio.jpg',
+    title: 'React Portfolio',
+    info: 'My main deployed portfolio was designed to showcase my React knowledge with useState and React router. Several custom-made design elements were created to provide a unique dark feel.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://determined-volhard-b649b0.netlify.app/',
+    repo: 'https://github.com/AdrianoArmen/adrianos-react-portfolio-20',
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'happy-pet-shelter.jpg',
+    title: 'Happy Pets Shelter',
+    info: 'Responsive application built to match animals with their perfect new family. I was in charge of the front-end and I could do my first SVG animation for the header',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://desolate-tundra-25750.herokuapp.com/',
+    repo: 'https://github.com/adina-hc/happy-pets-shelter-app',
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'sports-almanac.jpg',
+    title: 'Sports Almanac',
+    info: 'Application created to provide football fans with the latest information about their favorite leagues worldwide including matches data thanks to API fetching',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://adina-hc.github.io/sports-almanac/',
+    repo: 'https://github.com/adina-hc/sports-almanac',
+  },
+  {
+    id: nanoid(),
+    img: 'weather-dashboard.jpg',
+    title: 'Weather Dashboard',
+    info: 'Application designed to provide real-time weather information about any searched city. It can display a Five-day forecast thanks to the OpenWeather API',
+    info2: '',
+    url: 'https://adrianoarmen.github.io/adrianos-weather-dashboard-6/',
+    repo: 'https://github.com/AdrianoArmen/adrianos-weather-dashboard-6',
   },
 ];
 
