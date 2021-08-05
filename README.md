@@ -1,114 +1,143 @@
-<p align="center">
-  <a href="https://cara.lekoarts.de">
-    <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby Starter Portfolio: Cara
-</h1>
+# gatsby-portfolio-8
 
-<p align="center">
-  <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Gatsby Starter Portfolio: Cara is released under the 0BSD license." />
-  </a>
-  <a href="https://github.com/sponsors/LekoArts">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/LekoArts">
-  </a>
-  <a href="https://www.lekoarts.de?utm_source=cara&utm_medium=Starter">
-    <img alt="Website" src="https://img.shields.io/badge/-website-blue">
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
-    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
-  </a>
-</p>
+---
+# Unit 08 Project 1 Homework: Professional Materials
 
-Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
+Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
 
-[**Demo Website**](https://cara.lekoarts.de)
+If you are opting out of career services, this is _still a required assignment_. Part of being a web developer means being a part of a community. Having a place to share your projects is _necessary_ if you're applying for jobs, but it's also _critical_ on your journey as a developer.
 
-Also be sure to check out other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de) and my [Personal Website](https://www.lekoarts.de?utm_source=cara&utm_medium=Starter).
+## Requirements
 
-## ✨ Features
+* Submit an updated portfolio featuring Project 1 and two exemplary homework assignments.
 
-- Theme UI-based theming
-- react-spring parallax effect
-- CSS Animations on Shapes
+* Submit an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
 
-## 🚀 Getting Started
+* Submit an updated resume
 
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/LekoArts/gatsby-starter-portfolio-cara)
+* Submit an updated LinkedIn profile
 
-### 1. **Create a Gatsby site.**
+## Grading
 
-Use `git` to clone the site and navigate into it:
+| Requirement      | Weight |
+| ---------------- | ------ |
+| Portfolio        | 40%    |
+| GitHub Profile   | 40%    |
+| Resume           | 10%    |
+| LinkedIn Profile | 10%    |
 
-```sh
-git clone https://github.com/LekoArts/gatsby-starter-portfolio-cara project-name
-cd project-name
-```
+## Instructions
 
-### 2. **Install dependencies.**
+1. [Updated Portfolio](#updated-portfolio)
+2. [GitHub Profile](#updated-github-profile)
+3. [Updated Resume](#updated-resume)
+4. [Updated LinkedIn](#updated-linkedin)
 
-If you use npm 7 or above use the `--legacy-peer-deps` flag. If you use npm 6 you can use `npm install`.
+## Updated Portfolio
 
-```sh
-npm install --legacy-peer-deps
-```
+💁 Need help updating your Portfolio? Check out the [Career Services milestone resources for online presence](https://mycareerspot.org/onlinepresence).
 
-### 3. **Open the code and start customizing!**
+Your updated portfolio should:
 
-Start the site by running `npm run develop`.
+1. Display your contact information. If you don't want to share your personal email or phone number, use a separate email that you will only use for coding, also known as a developer email, and/or a call forwarding service, such as [Google Voice](https://voice.google.com/).
 
-Your site is now running at `http://localhost:8000`!
+2. Have links to your GitHub profile and LinkedIn profile
 
-If you want to learn more about how you can use a Gatsby starter that is configured with a Gatsby theme, you can check out this [shorter](https://www.gatsbyjs.com/docs/how-to/plugins-and-themes/using-a-gatsby-theme/) or [longer](https://www.gatsbyjs.com/tutorial/using-a-theme/) tutorial. The tutorials don't exactly apply to this starter however the concepts are the same.
+3. Have a link to a downloadable PDF of your resume
 
-## 📝 Using and modifying this starter
+4. Display at least 2 examples of student work from either deployed projects or homeworks. For each project, make sure you have the following:
 
-**Important Note:** Please read the guide [Shadowing in Gatsby Themes](https://www.gatsbyjs.com/docs/how-to/plugins-and-themes/shadowing/) to understand how to customize the underlying theme!
+    * Project title
 
-This starter creates a new Gatsby site that installs and configures the theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
+    * Link to the deployed version
 
-Have a look at the theme's README and files to see what options are available and how you can shadow the various components including Theme UI. Generally speaking you will want to place your files into `src/@lekoarts/gatsby-theme-cara/` to shadow/override files. The Theme UI config can be configured by shadowing its files in `src/gatsby-plugin-theme-ui/`.
+    * Link to the GitHub repository
 
-### Changing content
+    * Screenshot of the deployed application
 
-The content of this project is defined in four `.mdx` files inside the theme's `sections` folder. You can override the files `intro.mdx`, `projects.mdx`, `about.mdx` and `contact.mdx`. This starter has overridden the `intro.mdx` file as an example. Place the other files in the same `src/@lekoarts/gatsby-theme-cara/sections/` folder.
+5. Have a polished, mobile-responsive user interface.
 
-You have to use the `<ProjectCard />` component inside `projects.mdx` to display the cards. Example:
+### Design
 
-```md
-## Projects
+Unfortunately, this is where it gets a little bit subjective. Your site should look
+"polished." Here are a few guidelines on what that means:
 
-<ProjectCard title="Freiheit" link="https://www.behance.net/gallery/58937147/Freiheit" bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)">
-This project is my entry to Adobe's #ChallengeYourPerspective contest.
-</ProjectCard>
-```
+* Mobile-first design
 
-### Change your `static` folder
+* Choose a color palette for your site so it doesn't just look like
+  the default bootstrap theme or an unstyled HTML site.
 
-The `static` folder contains the icons, social media images and robots.txt. Don't forget to change these files, too!
+* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
 
-## 🤔 Questions or problems?
+## Updated GitHub Profile
 
-Please open up an issue on the main repository: [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes). Thanks!
+Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
 
-## 🎓 Learning Gatsby
+Your GitHub profile must contain at least the following items:
 
-Looking for more guidance? Full documentation for Gatsby lives [on Gatsby's website](https://www.gatsbyjs.com/).
+1. Profile picture or avatar
 
-### Themes
+   * A photo or an avatar other than the default Github identicon. (a semi-professional to professional photo or an avatar photo are preferred)
 
-- To learn more about Gatsby themes specifically, we recommend checking out the [theme docs](https://www.gatsbyjs.com/docs/themes/).
+2. Biography
 
-### General
+3. Email address. If you don't want to share your personal email or phone number, use a developer email.
 
-- **For most developers, I recommend starting with the [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.com/docs/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
+4. Link to your deployed portfolio
 
-- **To dive straight into code samples, head [to Gatsby's documentation](https://www.gatsbyjs.com/docs/).** In particular, check out the _Reference Guides_ and _Gatsby API_ sections in the sidebar.
+5. At least 2 pinned repositories:
 
-## 🌟 Supporting me
+   * Navigate to [GitHub](https://github.com/) and go to your profile.
 
-Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Twitter](https://twitter.com/lekoarts_de) and share the project with me.
+   * Click "Customize your pins"
 
-Please star this project, share it on Social Media or consider supporting me on [Patreon](https://www.patreon.com/lekoarts) or [GitHub Sponsor](https://github.com/sponsors/LekoArts)!
+   * Click the checkboxes for your project and 2-3 homework assignments that you would like to share
+
+6. Follow a few of your classmates and/or other developers. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code.
+
+7. README files. Every pinned project should contain a README file with:
+
+   * Title of app
+   * Live link to deployed app
+   * List of technologies used
+   * 1-2 sentences explaining what the app is
+   * 2-3 Screenshots / gifs of the app
+   * License (usually MIT)
+   * Contact information for you and any collaborators
+
+8. Commit history. Every pinned repository should have at least 20 commits.
+
+### 3. Updated Resume
+
+💁 Need help building a resume? Check out the [Career Services milestone resources](https://mycareerspot.org/resume).
+
+Submit a clear, concise, and compelling resume, tailored to the type of job you’re looking for.
+
+Your resume should include:
+
+* a heading with your name, phone number, professional email address, links to LinkedIn, portfolio and GitHub. If you don't want to share your personal email or phone number, use a developer email and/or a call forwarding service, such as [Google Voice](https://voice.google.com/).
+
+* a technical skills section, with all programming languages and technologies listed
+
+* 3 of your strongest projects/homework assignments with brief description, languages used, and URL
+
+### 4. Updated LinkedIn
+
+💁 Need help updating your LinkedIn? Check out the [Career Services milestone resources for online presence](https://mycareerspot.org/onlinepresence).
+
+Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
+
+### ⭐ 5. For Job-Seeking Students (BONUS)
+
+If you are a job-seeking student, then getting yourself marked as employer-ready is an important step to take because you'll get:
+
+* added to our employer referral list, where we'll help match you with employers for interviews
+
+* exclusive access to workshops for employer-ready students
+
+* a statistically higher success rate in your job search
+
+So if you're going to be looking for a job at the end of your boot camp, go ahead and submit these updated items to your Career Materials Advisor (formerly Profile Coach) via BootCampSpot.
+
+---
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
