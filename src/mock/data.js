@@ -69,9 +69,9 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
-  btn: '',
-  email: '',
+  cta: 'Wanto to ask me something?',
+  btn: 'Let´s connect',
+  email: 'adriano.armendaris@gmail.com',
 };
 
 // FOOTER DATA
