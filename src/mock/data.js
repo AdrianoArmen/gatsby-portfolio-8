@@ -3,24 +3,27 @@ import { nanoid } from 'nanoid';
 // HEAD DATA
 export const headData = {
   title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  lang: 'en-es', // e.g: en, es, fr, jp
+  description: 'Welcome to my Gatsby portfolio', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
-  subtitle: '',
-  cta: '',
+  title: 'Hello world, my name is',
+  name: 'Adriano',
+  subtitle: 'Full-stack Web Developer',
+  cta: 'More Info',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne:
+    'Known as an innovative problem solver and passinate about developing healthy business relationships into successful projects both online and offline wise. ',
+  paragraphTwo:
+    'I find inspiration by approaching tech challenges through a human perspective focusing on interpersonal relationships as a fundamental milestone of every business.',
+  paragraphThree:
+    'I also have a special crush on design and fron-end technologies. My goal this year is to get an entry position on a front-end role to master my skills and grow as a professional.',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
