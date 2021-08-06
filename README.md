@@ -8,7 +8,7 @@ Homework 8 - Gatsby Portfolio
 
 ## App Deployment 📦
 
-- [App Deploy Link](https://determined-volhard-b649b0.netlify.app/)
+- [App Deploy Link](https://practical-varahamihira-e80f63.netlify.app/)
 
 ## Project Description 📋
 
@@ -40,3 +40,7 @@ This professional portfolio was designed to showcase my versatility to work with
 ## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+---
+
+© 2021 Adriano.
