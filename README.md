@@ -1,7 +1,7 @@
 # gatsby-portfolio-8
 ![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)
 
-Homework 8 - Gatsby Portfolio
+Homework 8 - Gatsby Portfolio - Homework 24 - Updated portfolio
 
 ## GitHub Repository 🚀
 
