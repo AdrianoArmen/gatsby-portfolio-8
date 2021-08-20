@@ -31,6 +31,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'pata-de-perro.jpg',
+    title: 'Pata de Perro',
+    info: 'My most recent collaborative project, in which I participated as a Front-end developer and UI designer. It´s a summer-looking tourist activity MERN stack app with a wave-animated appearance.',
+    info2: '',
+    url: 'https://shrouded-bayou-22662.herokuapp.com/',
+    repo: 'https://github.com/adina-hc/pata-de-perro',
+  },
+  {
+    id: nanoid(),
     img: 'react-portfolio.jpg',
     title: 'React Portfolio',
     info: 'My main deployed portfolio was designed to showcase my React knowledge with useState and React router. Several custom-made design elements were created to provide a unique dark feel.',

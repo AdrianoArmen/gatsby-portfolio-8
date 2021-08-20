@@ -12,7 +12,7 @@ Homework 8 - Gatsby Portfolio
 
 ## Project Description 📋
 
-This professional portfolio was designed to showcase my versatility to work with different front-end technologies. Taking into account that my main portfolio is already built using React and deployed. I created a fresh new one-page portfolio this time utilizing a React-based, GraphQL powered, static site generator called GatsbyJS. I took a Gatsby featured started to create the structure of my project then I customized internal components, getting a chance to identify the differences and similarities between this SSG and regular Regular app creation, as far as routing, hosting images, and directory organization.
+This professional portfolio was designed to showcase my versatility to work with different front-end technologies. Taking into account that my main portfolio is already built using React and deployed. I created a fresh new one-page portfolio this time utilizing a React-based, GraphQL powered, static site generator called GatsbyJS. I took a Gatsby featured starter to create the structure of my project then I customized internal components, getting a chance to identify the differences and similarities between this SSG and regular Regular app creation, as far as routing, hosting images, and directory organization.
 
 **_Note_**: The project meets the acceptance criteria and has functional links to my updated online profiles including [LinkedIn](https://www.linkedin.com/in/adriano-armendaris/) [GitHub](https://github.com/AdrianoArmen) and my [Resume](https://drive.google.com/file/d/1kg6Mfy4G0UMV_z7aZ_5ic8V4bVmhDpul/view?usp=sharing)
 
